@@ -1,0 +1,22 @@
+{
+  "name": "lab2",
+  "version": "1.0.0",
+  "description": "GitHub Cyclic",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tluong12/lab2.git"
+  },
+  "author": "Doris Luong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tluong12/lab2/issues"
+  },
+  "homepage": "https://github.com/tluong12/lab2#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
